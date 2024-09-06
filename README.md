@@ -13,8 +13,8 @@ Ao final do processamento, qual será o valor da variável SOMA?
 [**Solução**](https://github.com/caiogc/desafio-Target2/blob/main/src/questoes/Questao1.md)
 
 
-2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
-   [**Solução**](https://github.com/caiogc/desafio-Target2/blob/main/src/questoes/Fibonacci.java)
+2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.  
+[**Solução**](https://github.com/caiogc/desafio-Target2/blob/main/src/questoes/Fibonacci.java)
 
 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:  
 • O menor valor de faturamento ocorrido em um dia do mês;  
@@ -33,7 +33,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 • ES – R$27.165,48  
 • Outros – R$19.849,53  
 
-Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
+Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
 [**Solução**](https://github.com/caiogc/desafio-Target2/blob/main/src/questoes/PercentualFaturamentoPorEstado.java)
 
 5) Escreva um programa que inverta os caracteres de um string.  
